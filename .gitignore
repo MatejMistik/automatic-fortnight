@@ -3,3 +3,5 @@
 /SOCOFing
 GenderModel.keras
 fingerprint-gender-classification-cnn.ipynb
+GenderFP.h5
+/.vs
