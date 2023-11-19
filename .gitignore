@@ -1,4 +1,5 @@
 /Altered
 /Real
 /SOCOFing
-GenderFP.h5
+GenderModel.keras
+fingerprint-gender-classification-cnn.ipynb
