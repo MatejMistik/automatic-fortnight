@@ -5,3 +5,5 @@ GenderModel.keras
 fingerprint-gender-classification-cnn.ipynb
 GenderFP.h5
 /.vs
+/Age
+/.ipynb_checkpoints
